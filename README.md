@@ -15,11 +15,12 @@ My name is Mahdi Rahmani and I'm a student at CE and MECH colleges of AUT. I'm i
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Mahdi-Rahmani/Mahdi-Rahmani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Rahmani&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi-Rahmani&hide=html,css,javascript,cmake,makefile&langs_count=6&theme=gruvbox&bg_color=1d1f21&title_color=ffffff&layout=compact" />
 </a>
 <a href="https://github.com/Mahdi-Rahmani/Mahdi-Rahmani">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahdi-Rahmani&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahdi-Rahmani&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mahdi's GitHub Stats" />
 </a>
+
 
 
 <!-- links to social media icons -->
