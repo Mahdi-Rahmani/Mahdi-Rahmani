@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mahdi Rahmani and I'm a student at CE and MECH colleges of AUT. I'm interested in Robotics, AI and computer networks
+My name is Mahdi Rahmani and I'm a CE and ME student at Amirkabir University of Tehran. I'm interested in Robotics, AI and computer networks
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
