@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Mahdi Rahmani and I'm a CE and ME student at Amirkabir University of Tehran. I'm interested in Robotics, AI and computer networks
+My name is Mahdi Rahmani, and I am currently a Ph.D. student in the Mechatronic Vehicle Systems Lab at the Department of Mechanical and Mechatronics Engineering, University of Waterloo. My research interests focus on Computer Vision, Robotics, and Autonomous Driving. Driven by these interests, I pursued dual degrees in Computer Engineering and Mechanical Engineering during my undergraduate studies. I am passionate about advancing technologies in these fields and am always eager to collaborate on innovative projects.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
